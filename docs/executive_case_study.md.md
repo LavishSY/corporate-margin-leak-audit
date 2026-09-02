@@ -1,4 +1,4 @@
-# executive_case_study
+# executive_case_study.md
 
 # 📉 Case Study: How Automated Transaction Auditing Recovered 16.43% Margin Leakage in Corporate Sales
 
