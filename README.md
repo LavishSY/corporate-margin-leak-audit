@@ -33,6 +33,17 @@ An automated diagnostic audit across corporate transactional records identified 
 │
 ▼ (Looker Studio Connector)
 [Executive BI Dashboard & Telemetry Layer]
+![System Architecture](assets/architecture_schematic.png)
+
+---
+
+## 📊 Visual Proof & Diagnostic Telemetry
+
+### Looker Studio Executive Dashboard
+![Looker Studio Dashboard](assets/looker_dashboard.png)
+
+### Dynamic Excel Financial Simulation Model
+![Excel Simulation Model](assets/excel_model.png)
 
 ---
 
