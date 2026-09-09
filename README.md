@@ -42,7 +42,7 @@ An automated diagnostic audit across corporate transactional records identified 
 ### Looker Studio Executive Dashboard
 ![Looker Studio Dashboard](assets/looker_dashboard.png)
 
-[![Interactive Dashboard Demo](https://img.shields.io/badge/Demo-Interactive_Looker_Studio-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white)](PASTE_YOUR_LOOKER_STUDIO_LINK_HERE)
+[![Interactive Dashboard Demo](https://img.shields.io/badge/Demo-Interactive_Looker_Studio-4285F4?style=for-the-badge&logo=googlelooker&logoColor=white)](https://datastudio.google.com/reporting/d2f1b9af-a133-43b2-84fa-35d361ae5d60)
 
 > 🔗 **Direct Cloud Access:** [Launch Interactive Audit Telemetry (View Only)](https://datastudio.google.com/reporting/d2f1b9af-a133-43b2-84fa-35d361ae5d60)
 
